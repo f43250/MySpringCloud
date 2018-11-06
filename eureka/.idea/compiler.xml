@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-client" />
+        <module name="config-server" />
+        <module name="eureka" />
+        <module name="eureka-server" />
+        <module name="eurekaclient" />
+        <module name="eurekaserver" />
+        <module name="serice-feign" />
+        <module name="server-zipkin" />
+        <module name="service-feign" />
+        <module name="service-hi" />
+        <module name="service-hi2" />
+        <module name="service-lucy" />
+        <module name="service-miya" />
+        <module name="service-ribbon" />
+        <module name="service-turbine" />
+        <module name="service-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="config-client" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="eureka" target="1.5" />
+      <module name="eureka-server" target="1.8" />
+      <module name="eurekaclient" target="1.8" />
+      <module name="eurekaserver" target="1.8" />
+      <module name="serice-feign" target="1.8" />
+      <module name="server-zipkin" target="1.8" />
+      <module name="service-feign" target="1.8" />
+      <module name="service-hi" target="1.8" />
+      <module name="service-hi2" target="1.8" />
+      <module name="service-lucy" target="1.8" />
+      <module name="service-miya" target="1.8" />
+      <module name="service-ribbon" target="1.8" />
+      <module name="service-turbine" target="1.8" />
+      <module name="service-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
